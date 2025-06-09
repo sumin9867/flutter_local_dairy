@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333042435736",
+    "project_id": "local-phone-book-app",
+    "storage_bucket": "local-phone-book-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333042435736:android:bea6c7bbca3c97b877f2ed",
+        "android_client_info": {
+          "package_name": "com.example.local_telephone_dairy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0kN-aoyRuN-_t8LWN3nJN7etWDb3fpPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
